@@ -1,0 +1,24 @@
+{
+  "name": "sf-whats-good",
+  "version": "1.0.0",
+  "description": "San Francisco's home page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim Rabbani",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "bluebird": "^3.5.0",
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "mongodb": "^2.2.27",
+    "parse-link-header": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "parse-headers": "^2.0.1"
+  }
+}
